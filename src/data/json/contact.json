@@ -1,0 +1,14 @@
+[
+  {
+    "name": "GitHub",
+    "url": "https://github.com/ArsalanRehman",
+    "icon": ["fab", "github"],
+    "isMain": false
+  },
+  {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/in/arsalan-rehman-38a005181/",
+    "icon": ["fab", "linkedin"],
+    "isMain": false
+  }
+]
