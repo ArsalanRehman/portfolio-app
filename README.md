@@ -1,6 +1,4 @@
-# :warning::warning: This project is no longer maintained. :warning::warning:
 
-[![Build Status](https://travis-ci.com/caglarturali/caglarturali.github.io.svg?branch=master)](https://travis-ci.com/caglarturali/caglarturali.github.io)
 
 ## What's this?
 
